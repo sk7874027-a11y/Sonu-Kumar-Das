@@ -1,0 +1,8 @@
+{
+  "name": "Elevate Solutions",
+  "description": "Professional IT agency providing School ERPs, CRM systems, and high-performance website development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
